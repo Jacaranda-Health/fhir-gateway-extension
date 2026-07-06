@@ -1,15 +1,66 @@
-**IMPORTANT: Where possible all PRs must be linked to a Github issue**
 
-Resolves [link to issue]
+Thank you for contributing to Jacaranda Health! 🎉
 
-**Engineer Checklist**
+## 🎯 Type of Change
 
-- [ ] I have written **Unit tests** for any new feature(s) and edge cases for
-      bug fixes
-- [ ] I have added documentation for any new feature(s) and configuration
-      option(s) on the `README.md`
-- [ ] I have run `mvn spotless:check` to check my code follows the project's
-      style guide
-- [ ] I have run `mvn clean test jacoco:report` to confirm the coverage report
-      was generated at `plugins/target/site/jacoco/index.html`
-- [ ] I ran `mvn clean package` right before creating this pull request.
+- [ ] 🐛 Bug fix
+- [ ] ✨ New feature
+- [ ] 💥 Breaking change
+- [ ] 📚 Documentation
+- [ ] 🔧 Tooling/Workflow
+- [ ] 🧹 Refactoring
+- [ ] ⚡ Performance
+- [ ] 🔒 Security
+
+## 📝 Description
+
+**What does this PR do?**
+[Brief summary of changes]
+
+**Why is this change needed?**
+[Problem solved or improvement provided]
+
+## 🧪 Testing (if applicable)
+
+- [ ] ✅ Tested locally
+- [ ] ✅ Unit tests added/updated
+- [ ] ✅ All existing tests pass
+- [ ] ✅ Manual testing completed
+
+## 📸 Screenshots (if applicable)
+
+**Before:** [Screenshot]
+**After:** [Screenshot]
+
+## 🔗 Related Issues
+
+- Fixes #[issue_number]
+- Related to #[issue_number]
+
+## 📋 Checklist
+
+- [ ] ✅ Self-review completed
+- [ ] ✅ Code follows style guidelines
+- [ ] ✅ Documentation updated
+- [ ] ✅ No sensitive data exposed
+- [ ] ✅ Security implications considered
+
+## 🚀 Deployment (if applicable)
+
+- [ ] 🔄 Database migration required
+- [ ] 🔧 Environment variables needed
+- [ ] 📦 Dependencies updated
+- [ ] 🔗 Multiple services affected
+
+**Migration Steps:** [If applicable]
+**Environment Variables:** [If applicable]
+
+## 📊 Risk Level (if applicable)
+
+- [ ] 🟢 Low - Minor change
+- [ ] 🟡 Medium - Moderate change
+- [ ] 🔴 High - Significant change
+
+---
+
+**Thank you for your contribution! 🎉** 
