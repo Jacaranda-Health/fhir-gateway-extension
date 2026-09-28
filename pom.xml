@@ -117,6 +117,10 @@
               </includes>
               <excludes>
                 <exclude>**/target/**</exclude>
+                <!-- Issue and PR templates are managed organization-wide by the tooling
+                     repository's template automation; reformatting them here would drift
+                     from, and be overwritten by, the organization copy. -->
+                <exclude>.github/**</exclude>
               </excludes>
               <prettier>
                 <!-- Formatter that Spotless supports and can format Markdown:
